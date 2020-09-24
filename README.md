@@ -1,5 +1,5 @@
 # Random-Number-Generator
-This Python notebook file contains a code to generate 100,000 Random Numbers using Linear Congruential Method. 
+This Python script contains a code to generate 100,000 Random Numbers using Linear Congruential Method. 
 Linear Congruential Method is a pseudo random number generating algorithm.
 This code also contains a cdf plot to visualize the random numbers generated.
 Chi-square test is used to test the generator. Null Hypothesis is that the numbers follow iid Uniform (0,1) distribution. A 95% confidence interval is used.
